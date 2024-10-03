@@ -1,4 +1,4 @@
-# 1Win
+# Token1win
 
 > 🇺🇸 README available in English [here](README-EN.md)
 
